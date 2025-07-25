@@ -1,0 +1,45 @@
+My name is Ahmad Riaz. I am currently a student of Software Engineering and a passionate web developer. I enjoy creating innovative solutions using modern web technologies.
+
+👤 Personal Info:
+- Full Name: Ahmad Riaz
+- Age: 19
+- Location: Pakistan , Multan
+- Language: English, Urdu
+
+🎓 Education:
+- Currently pursuing a Bachelor's degree in Computer Science from the University of Education , Multan.
+- Deep interest in learning AI, cybersecurity, and full-stack development.
+
+💼 Skills:
+- HTML5, CSS3, JavaScript (ES6+)
+- PHP, MySQL
+- Laravel (basic)
+- Bootstrap 5
+- React.js (beginner)
+- Node.js (basic)
+- CodeIgniter 3 (strong experience)
+- RESTful API integration && Creation
+- Version Control (Git, GitHub)
+- Debugging, UI/UX best practices
+
+🔧 Projects:
+- Built multiple custom web applications including admin panels, food ordering systems, and PDF generation tools.
+- Developed multi-form processing systems and user authentication modules.
+- Worked with AJAX, jQuery, and dynamic content rendering in PHP apps.
+
+📱 Social Links:
+- GitHub: https://github.com/42webok
+- LinkedIn: https://www.linkedin.com/in/ahmad-riaz-73ba362b0/
+- Facebook: https://www.facebook.com/profile.php?id=100074487870493&mibextid=ZbWKwL
+
+💡 Personal Interests:
+- Learning about AI and integrating it into real-world projects
+- Studying ethical hacking and cyber defense strategies
+- Building admin dashboards and improving backend logic
+- Teaching others how to write clean and structured PHP code
+
+I am doing Job in MJ Coders as a Junior Web Developer. I am working on multiple projects and learning new skills every day. I am excited to share my knowledge and experience with others and contribute to the web development community. I am looking forward to collaborating with like-minded individuals and learning from their experiences.
+
+
+🔍 Summary:
+Ahmad Riaz is a committed learner and an aspiring software engineer with a strong grip on PHP and CodeIgniter-based development. He is actively building real-world web apps and exploring AI chatbot integration in his personal projects. Connect with him via GitHub or LinkedIn to view his projects and journey.
