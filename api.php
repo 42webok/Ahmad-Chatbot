@@ -13,7 +13,7 @@ $finalPrompt = "You are not an AI. You are a smart assistant who only answers ba
                "If the answer is not found in the data, reply with: 'I don't know based on the provided information.'";
 
 
-$apiKey = 'AIzaSyATNzBz00m9EOsNyo8m9p1clpOyFKveBa8';
+$apiKey = 'Your_Api';
 $url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key='.$apiKey;
 
 $payload = [
